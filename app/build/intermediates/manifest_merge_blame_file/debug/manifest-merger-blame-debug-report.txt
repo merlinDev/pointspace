@@ -1,0 +1,396 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.lazymessanger"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="16"
+8-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+11-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:6:5-81
+11-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:6:22-78
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:7:5-80
+12-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:7:22-77
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:8:5-67
+13-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:8:22-64
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:9:5-65
+14-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:9:22-62
+15    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+15-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:10:5-98
+15-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:10:22-95
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:11:5-81
+16-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:11:22-78
+17    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+17-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:12:5-79
+17-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:12:22-76
+18    <uses-permission android:name="android.permission.WAKE_LOCK" />
+18-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:13:5-68
+18-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:13:22-65
+19    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+19-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:14:5-82
+19-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:14:22-79
+20    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+20-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:10:5-76
+20-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:10:22-73
+21    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+22
+23    <uses-feature
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+24        android:glEsVersion="0x00020000"
+24-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+25        android:required="true" />
+25-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+26
+27    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+27-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:26:5-110
+27-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:26:22-107
+28
+29    <application
+29-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:16:5-91:19
+30        android:name="com.example.lazymessanger.CustomApplication"
+30-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:17:9-42
+31        android:allowBackup="true"
+31-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:18:9-35
+32        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+32-->[androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:24:18-86
+33        android:debuggable="true"
+34        android:icon="@mipmap/ic_launcher"
+34-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:19:9-43
+35        android:label="@string/app_name"
+35-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:20:9-41
+36        android:roundIcon="@mipmap/ic_launcher_round"
+36-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:21:9-54
+37        android:supportsRtl="true"
+37-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:22:9-35
+38        android:testOnly="true"
+39        android:theme="@style/AppTheme" >
+39-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:23:9-40
+40        <activity android:name="com.example.lazymessanger.TagForumsActivity" />
+40-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:25:9-64
+40-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:25:19-52
+41        <activity android:name="com.example.lazymessanger.UserDetailsActivity" />
+41-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:26:9-57
+41-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:26:19-54
+42        <activity android:name="com.example.lazymessanger.SearchActivity" >
+42-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:27:9-35:20
+42-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:27:19-49
+43            <intent-filter>
+43-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:28:13-30:29
+44                <action android:name="android.intent.action.SEARCH" />
+44-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:29:17-71
+44-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:29:25-68
+45            </intent-filter>
+46
+47            <meta-data
+47-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:32:13-34:54
+48                android:name="android.app.searchable"
+48-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:33:17-54
+49                android:resource="@xml/searchable" />
+49-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:34:17-51
+50        </activity>
+51        <activity android:name="com.example.lazymessanger.ActivityForumAnalyze" />
+51-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:36:9-58
+51-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:36:19-55
+52        <activity android:name="com.example.lazymessanger.ActivityRegister" />
+52-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:37:9-54
+52-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:37:19-51
+53        <activity android:name="com.example.lazymessanger.PlaceActivity" />
+53-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:38:9-51
+53-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:38:19-48
+54        <activity
+54-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:39:9-42:50
+55            android:name="com.example.lazymessanger.HomeActivity"
+55-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:40:13-41
+56            android:configChanges="screenSize|orientation|colorMode"
+56-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:41:13-69
+57            android:hardwareAccelerated="true" />
+57-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:42:13-47
+58        <activity
+58-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:43:9-45:72
+59            android:name="com.example.lazymessanger.ProfilePictureActivity"
+59-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:44:13-51
+60            android:configChanges="screenSize|orientation|colorMode" />
+60-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:45:13-69
+61        <activity
+61-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:46:9-49:46
+62            android:name="com.example.lazymessanger.ForumActivity"
+62-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:47:13-42
+63            android:configChanges="screenSize|orientation|colorMode"
+63-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:48:13-69
+64            android:launchMode="singleTop" />
+64-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:49:13-43
+65        <activity
+65-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:50:9-52:72
+66            android:name="com.example.lazymessanger.ThreadRegisterActivity"
+66-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:51:13-51
+67            android:configChanges="screenSize|orientation|colorMode" />
+67-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:52:13-69
+68        <activity
+68-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:53:9-55:72
+69            android:name="com.example.lazymessanger.LoginActivity"
+69-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:54:13-42
+70            android:configChanges="screenSize|orientation|colorMode" />
+70-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:55:13-69
+71        <activity
+71-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:56:9-66:20
+72            android:name="com.example.lazymessanger.MainActivity"
+72-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:57:13-41
+73            android:configChanges="screenSize|orientation|colorMode"
+73-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:58:13-69
+74            android:icon="@drawable/logo"
+74-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:59:13-42
+75            android:label="@string/app_name"
+75-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:60:13-45
+76            android:theme="@style/SplashScreen" >
+76-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:61:13-48
+77            <intent-filter>
+77-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:62:13-65:29
+78                <action android:name="android.intent.action.MAIN" />
+78-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:63:17-69
+78-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:63:25-66
+79
+80                <category android:name="android.intent.category.LAUNCHER" />
+80-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:64:17-77
+80-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:64:27-74
+81            </intent-filter>
+82        </activity>
+83
+84        <meta-data
+84-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:68:9-70:71
+85            android:name="com.google.android.geo.API_KEY"
+85-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:69:13-58
+86            android:value="AIzaSyBcZIYVYytMLXr1aqRO1vSwSAmoFvamTVE" />
+86-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:70:13-68
+87        <meta-data
+87-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:71:9-73:69
+88            android:name="com.google.android.gms.version"
+88-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:72:13-58
+89            android:value="@integer/google_play_services_version" />
+89-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:73:13-66
+90
+91        <receiver android:name="broadcasts.InternetBroadcastReceiver" >
+91-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:75:9-79:20
+91-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:75:19-70
+92            <intent-filter>
+92-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:76:13-78:29
+93                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+93-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:77:17-79
+93-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:77:25-76
+94            </intent-filter>
+95        </receiver>
+96
+97        <service
+97-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:81:9-83:72
+98            android:name="services.NotificationService"
+98-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:82:13-56
+99            android:permission="android.permission.BIND_JOB_SERVICE" />
+99-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:83:13-69
+100        <service
+100-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:84:9-90:19
+101            android:name="services.FirebaseMessageService"
+101-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:85:13-59
+102            android:exported="false" >
+102-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:86:13-37
+103            <intent-filter>
+103-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:87:13-89:29
+104                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+104-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:17-78
+104-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:25-75
+105            </intent-filter>
+106        </service>
+107        <!-- Autocomplete -->
+108        <activity
+108-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:16:9-23:20
+109            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+109-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:17:13-91
+110            android:exported="false"
+110-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:18:13-37
+111            android:hardwareAccelerated="true"
+111-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:19:13-47
+112            android:label="@string/places_autocomplete_label"
+112-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:20:13-62
+113            android:theme="@style/PlacesAutocompleteThemeOverlay"
+113-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:21:13-66
+114            android:windowSoftInputMode="stateAlwaysVisible|adjustPan" >
+114-->[com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:22:13-71
+115        </activity> <!-- Needs to be explicitly declared on P+ -->
+116        <uses-library
+116-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+117            android:name="org.apache.http.legacy"
+117-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+118            android:required="false" />
+118-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+119
+120        <activity
+120-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
+121            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+121-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
+122            android:excludeFromRecents="true"
+122-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
+123            android:exported="true"
+123-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
+124            android:launchMode="singleTask"
+124-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
+125            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+125-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+126-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
+127
+128        <service
+128-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
+129            android:name="com.google.firebase.components.ComponentDiscoveryService"
+129-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
+130            android:exported="false" >
+130-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
+131            <meta-data
+131-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
+132                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+132-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
+133                android:value="com.google.firebase.components.ComponentRegistrar" />
+133-->[com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
+134            <meta-data
+134-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:33:13-35:85
+135                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+135-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:34:17-107
+136                android:value="com.google.firebase.components.ComponentRegistrar" />
+136-->[com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:35:17-82
+137            <meta-data
+137-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:20:13-22:85
+138                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+138-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:21:17-111
+139                android:value="com.google.firebase.components.ComponentRegistrar" />
+139-->[com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:22:17-82
+140            <meta-data
+140-->[com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:30:13-32:85
+141                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+141-->[com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:31:17-139
+142                android:value="com.google.firebase.components.ComponentRegistrar" />
+142-->[com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:32:17-82
+143            <meta-data
+143-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+144                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+144-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+145                android:value="com.google.firebase.components.ComponentRegistrar" />
+145-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+146        </service>
+147        <!--
+148             FirebaseMessagingService performs security checks at runtime,
+149             but set to not exported to explicitly avoid allowing another app to call it.
+150        -->
+151        <service
+151-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+152            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+152-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+153            android:exported="false" >
+153-->[com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+154            <intent-filter android:priority="-500" >
+154-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:87:13-89:29
+155                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+155-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:17-78
+155-->C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:25-75
+156            </intent-filter>
+157        </service>
+158
+159        <provider
+159-->[com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+160            android:name="com.squareup.picasso.PicassoProvider"
+160-->[com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+161            android:authorities="com.example.lazymessanger.com.squareup.picasso"
+161-->[com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+162            android:exported="false" />
+162-->[com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+163
+164        <receiver
+164-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+165            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+165-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+166            android:exported="true"
+166-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+167            android:permission="com.google.android.c2dm.permission.SEND" >
+167-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+168            <intent-filter>
+168-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+169                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+169-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+169-->[com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+170            </intent-filter>
+171        </receiver>
+172
+173        <activity
+173-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+174            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+174-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+175            android:exported="false"
+175-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+176            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+176-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+177
+178        <provider
+178-->[com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+179            android:name="com.google.firebase.provider.FirebaseInitProvider"
+179-->[com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+180            android:authorities="com.example.lazymessanger.firebaseinitprovider"
+180-->[com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+181            android:exported="false"
+181-->[com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+182            android:initOrder="100" />
+182-->[com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+183
+184        <receiver
+184-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:29:9-33:20
+185            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+185-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:30:13-85
+186            android:enabled="true"
+186-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:31:13-35
+187            android:exported="false" >
+187-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:32:13-37
+188        </receiver>
+189        <receiver
+189-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:34:9-42:20
+190            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+190-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:35:13-100
+191            android:enabled="true"
+191-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:36:13-35
+192            android:exported="true"
+192-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:37:13-36
+193            android:permission="android.permission.INSTALL_PACKAGES" >
+193-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:38:13-69
+194            <intent-filter>
+194-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:39:13-41:29
+195                <action android:name="com.android.vending.INSTALL_REFERRER" />
+195-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:40:17-79
+195-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:40:25-76
+196            </intent-filter>
+197        </receiver>
+198
+199        <service
+199-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:44:9-47:40
+200            android:name="com.google.android.gms.measurement.AppMeasurementService"
+200-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:45:13-84
+201            android:enabled="true"
+201-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:46:13-35
+202            android:exported="false" />
+202-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:47:13-37
+203        <service
+203-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:48:9-52:72
+204            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+204-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:49:13-87
+205            android:enabled="true"
+205-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:50:13-35
+206            android:exported="false"
+206-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:51:13-37
+207            android:permission="android.permission.BIND_JOB_SERVICE" />
+207-->[com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:52:13-69
+208    </application>
+209
+210</manifest>

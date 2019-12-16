@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clipToPadding="false"
+    android:fitsSystemWindows="false"
+    android:orientation="vertical">
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:onClick="addEditText"
+        android:padding="@dimen/image_button"
+        android:src="@drawable/text"
+        android:text="@string/new_paragraph"
+        android:textAllCaps="false"
+        app:icon="@drawable/text"
+        app:iconPadding="@dimen/image_button"
+        app:theme="@style/AppTheme" />
+
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:onClick="addImage"
+        android:padding="@dimen/image_button"
+        android:text="@string/add_new_image"
+        android:textAllCaps="false"
+        app:icon="@drawable/image"
+        app:iconPadding="@dimen/image_button"
+        app:theme="@style/AppTheme" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:onClick="openCamera"
+        android:padding="@dimen/image_button"
+        android:text="@string/capture_new_photo"
+        android:textAllCaps="false"
+        app:icon="@drawable/camera"
+        app:iconPadding="@dimen/image_button"
+        app:theme="@style/AppTheme" />
+
+    <com.google.android.material.button.MaterialButton
+        style="@style/Widget.MaterialComponents.Button.TextButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="start"
+        android:onClick="getLocation"
+        android:padding="@dimen/image_button"
+        android:text="@string/add_new_location"
+        android:textAllCaps="false"
+        app:icon="@drawable/place"
+        app:iconPadding="@dimen/image_button"
+        app:theme="@style/AppTheme" />
+
+</LinearLayout>

@@ -1,0 +1,1774 @@
+[
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\transition_arc_motion.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\transition\\arc_motion.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_map_view_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\map_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_bookmark_border.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\bookmark_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_no_internet_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\no_internet_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\down_red.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_textfield.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_email.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\email.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tag_fourms.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_tag_fourms.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_view_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\image_view_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_category_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\category_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_forum_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\forum_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_emoji.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\emoji.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\edit_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_action_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\message_action_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_remove_circle.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\remove_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_bg.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\search_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_lock.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_clock.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_internet_back_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\internet_back_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_send.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\send.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_send_textfield.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\message_send_textfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_field.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\loading_field.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_drawer.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\navigation_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_border_edit_text.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\no_border_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_send_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\comment_send_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_person.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\person.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_settings.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\xml_searchable.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\xml\\searchable.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\home_toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pin.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\pin.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_bookmark.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_splash_screen.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_forum_search_result_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\forum_search_result_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\bottom_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_forum_card_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\forum_card_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment_label.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\comment_label.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_aladin.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\content_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\down_red.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_down.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\down.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment_bg.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\comment_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_category.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\category.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_bg.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\round_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_down_red.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\down_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_light.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\light.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_details.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_user_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_category.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\category.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_crimson.ttf.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\crimson.ttf"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_source_serif_bold.ttf.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\source_serif_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_toolbar_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_source_serif_regular.ttf.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\source_serif_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\comment_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_search.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_edit.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_location_select_alert_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\location_select_alert_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_camera.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_drafts.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\drafts.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dummy_pic.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\dummy_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_textview_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\textview_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_dots.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dots.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_place.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\place.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_person_outline.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\person_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_comment_section_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\comment_section_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_draft_forum_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\draft_forum_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_my_forums.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\my_forums.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_draft_forums.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\fragment_draft_forums.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_mobile.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\mobile.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_send.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\send.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\down_red.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_border_edit_text_white.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\no_border_edit_text_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info_background.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\info_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_up_blue.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\up_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search_result_bg.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\search_result_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_description_edit_text.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\description_edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.json.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\raw\\style_json.json"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_up.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\up.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_back.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\back.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_bookmark.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\fragment_bookmark.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forum_analyze.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_forum_analyze.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\down_red.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_text.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\text.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_discard_alert.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\discard_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_location.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_location.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_person_outline.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\person_outline.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_remove.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\remove.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_home.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_camera.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_emoji.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\emoji.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_up_blue.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\up_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_thread_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\thread_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_text.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\text.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_search.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_delete.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_search_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\search_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_image.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\image.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_more.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_source_serif_semi_bold.ttf.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\source_serif_semi_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_picture.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_dark.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_analyze.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\analyze.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_my_forums.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\my_forums.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_info.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\info.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_done.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\done.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_analyze.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\analyze.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_share.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_eye.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_only_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\text_only_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_thme_change_dialog.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\thme_change_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_saved.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\saved.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_up_arrow.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\up_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_down.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\down.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_heart.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\heart.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_home.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_fill.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\down_red.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_user_search_result_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\user_search_result_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_edit_text_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\edit_text_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_heart.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\heart.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_up.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_logo.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_place.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_place.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash_screen.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\splash_screen.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_message_box.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\message_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search_black_24dp.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_light.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\light.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_forum_view_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\forum_view_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search_black_24dp.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_mobile.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\mobile.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_place.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\place.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_menu.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_done.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\done.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile_picture.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_profile_picture.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\menu_home_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_internet_back.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\internet_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_dark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\dark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_more.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\more.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_settings.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_saved.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\saved.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forum.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_drafts.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\drafts.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_picture.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\picture.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_toolbox_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\toolbox_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_clock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_edit.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\edit.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_remove.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\remove.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_share.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_thread_register.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_thread_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_delete.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dots.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\dots.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bookmark_border.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bookmark_border.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_person.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\person.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_forum_action_layout.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\forum_action_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_info.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_image_view.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_calligraffitti.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\calligraffitti.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_empty_home.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\empty_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_logo.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_search.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\search.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable_no_internet.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\drawable\\no_internet.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_email.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\email.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_image.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_back.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\font_montserrat_bold.ttf.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\src\\main\\res\\font\\montserrat_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_fill.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_up_arrow.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\up_arrow.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_eye.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\eye.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_bookmark.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_lock.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\lock.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_remove_circle.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\remove_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_category.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\category.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_menu.xml.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_location.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_location.png"
+    },
+    {
+        "merged": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_down_red.png.flat",
+        "source": "C:\\Users\\merlinDev\\Desktop\\LazyMessanger (Pointspace)\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\down_red.png"
+    }
+]

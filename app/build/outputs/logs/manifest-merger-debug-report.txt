@@ -1,0 +1,785 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9ed43ede764a47b940d3232b62b9fa5e\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5407bd631196bba873e8c172528a0b24\material-1.1.0-alpha09\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ece717ae11c674cd2577eec4cb59a544\appcompat-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\45ac63c9bc3aa8316c8a27d91b8a9ef4\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.paging:paging-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a50c363cadf7c225ebe751dc12124e6e\paging-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0368fed1df965f04151c5eef6c5ba9c6\room-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.firebaseui:firebase-ui-firestore:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fe3ee6245c1d80afffb52571e2134c7c\jetified-firebase-ui-firestore-5.0.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\665ba076e2a9a69b6b42d936cc5b8d44\jetified-firebase-analytics-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4f383788c4f9228cfb9c3743fb21f494\jetified-circleimageview-3.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c01172fdcce3465a8dc5cdbcef3c5839\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\110167f9f9b8e106fbbdd7d7630d6ea9\jetified-grpc-android-1.21.0\AndroidManifest.xml:2:1-13:12
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0e4850706fbb5aef390819afd18d54aa\jetified-compressor-2.1.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.hootsuite.android:nachos:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79e12f1d3682cd98f3a2d0506599bb06\jetified-nachos-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4158eff534a06f5783d0b3be2a7bb3bf\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bf39db12c88a7347eaab1a1e8397466\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ba11162dc31415e3c98b45e747ad8fe1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9b4512b876fc8e4f5d79d598f7802708\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9cd3f06b59371e3f6ad6a459daa8274e\jetified-viewpager2-1.0.0-beta02\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de9cea4e3a11ca7faf87b78453994d1a\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\12d5c89f0e815191f6f0af445e029958\jetified-play-services-location-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\f952d768f8190021b2ffd997cb6b27f9\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9f803ca49b8b124cbe7dc318859a691\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d0580cb8708f82d93c451e0cde6fbc54\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1463d7916647c040d4f38705eb66f882\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\58bd475487072aec53f39b06d2b20952\jetified-play-services-measurement-sdk-17.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\913093da5e42fea3098779a3d4527015\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a59f428d946b15edb8a93cbba9d1f25c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d3cd4c85d8c345c2cf5d2932b3e6fbc2\jetified-play-services-measurement-base-17.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a9b3b82318246f593578c4dff4192c1d\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\be11d448843dc78a19441b5a4f05c078\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9a38510928986636fd8ae27f594a052e\fragment-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4b0e4f2afbacc2d70987d314f30c282d\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87cad4bdebd2f61ab50c3057c7ea18a1\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\6c35e57b02a35b0c0b5e3a0ceab6c970\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\60eb90f02c3c753ffbf07d493f361f30\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87b7acbdb2d5ed16662f9f2d58c2be7f\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7d3e3c220a0b3dafab2ce5f50ed8b43d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79d777ac6403dad34518fc7a04310bfd\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1f9341c465271763f67947e2b1014997\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8d5ce945dabd03bfe90195b857f7a916\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2c3c4b0ca1fd79099a3d02939e18ac4d\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8cc272a2a95695dda521edd4f3acfdfd\vectordrawable-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2b1fbb3099860df7ef6137e613b74378\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\63c3ecb81cd03e470603f88f7642b018\jetified-activity-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\750c01c92d5aa0a56b5f5c10af4dc629\recyclerview-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ec97f7c7918a4aed76ecf09aae641db0\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\890b49868be103a45830b82231eb390d\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9d18e2071b94bc84949e4a07f57da657\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4af5e666bcc9870cabd7f847f21f470c\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0f201dea50253b6dd0ea6e5fb44adb0f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\42f5bbdea03718838219dc2321d1aee4\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\05d40eb9d439378b337f03560a217fe4\sqlite-framework-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\62b16dd9077e5c76ace0a2dab2fe1dee\sqlite-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\933f986b932491ae04b35cf0895b6094\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-common:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\628bf2636d7155ee1782d69ebb0f021e\jetified-firebase-ui-common-5.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e06fa88f811686714048fa0c57d4c659\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\78730527f1f59b12ed420d2f53a89b4b\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9279327abb5835ffeb5fc0e4a2cd795a\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e6ffe8ca8997c82eaa3ef0bbd11d1665\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\586a0fba63c937430f8f707d4be0761f\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\76bda56b5ddb4d0d71e3cc1a512ff270\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b4bd964c3bb66d8856a6024507d39759\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c541b49a8e95eafff2e9942137178a85\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\df60a04785b4bc6fe9ec10e4f7ec10ad\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\791e049849b73c87479be1ec15d210f3\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+	package
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:4:5-40
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:1-93:12
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:27:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fe3ee6245c1d80afffb52571e2134c7c\jetified-firebase-ui-firestore-5.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-firestore:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fe3ee6245c1d80afffb52571e2134c7c\jetified-firebase-ui-firestore-5.0.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:14:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:9:22-62
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:9:5-79
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:13:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:14:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:14:22-79
+application
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:16:5-91:19
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5407bd631196bba873e8c172528a0b24\material-1.1.0-alpha09\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5407bd631196bba873e8c172528a0b24\material-1.1.0-alpha09\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:13:5-24:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\45ac63c9bc3aa8316c8a27d91b8a9ef4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\45ac63c9bc3aa8316c8a27d91b8a9ef4\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:16:5-24:19
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\665ba076e2a9a69b6b42d936cc5b8d44\jetified-firebase-analytics-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\665ba076e2a9a69b6b42d936cc5b8d44\jetified-firebase-analytics-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:22:5-35:19
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4f383788c4f9228cfb9c3743fb21f494\jetified-circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4f383788c4f9228cfb9c3743fb21f494\jetified-circleimageview-3.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:7:5-12:19
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c01172fdcce3465a8dc5cdbcef3c5839\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c01172fdcce3465a8dc5cdbcef3c5839\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de9cea4e3a11ca7faf87b78453994d1a\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de9cea4e3a11ca7faf87b78453994d1a\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\12d5c89f0e815191f6f0af445e029958\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\12d5c89f0e815191f6f0af445e029958\jetified-play-services-location-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\f952d768f8190021b2ffd997cb6b27f9\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\f952d768f8190021b2ffd997cb6b27f9\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9f803ca49b8b124cbe7dc318859a691\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9f803ca49b8b124cbe7dc318859a691\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d0580cb8708f82d93c451e0cde6fbc54\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d0580cb8708f82d93c451e0cde6fbc54\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1463d7916647c040d4f38705eb66f882\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1463d7916647c040d4f38705eb66f882\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\58bd475487072aec53f39b06d2b20952\jetified-play-services-measurement-sdk-17.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\58bd475487072aec53f39b06d2b20952\jetified-play-services-measurement-sdk-17.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\913093da5e42fea3098779a3d4527015\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\913093da5e42fea3098779a3d4527015\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a59f428d946b15edb8a93cbba9d1f25c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a59f428d946b15edb8a93cbba9d1f25c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d3cd4c85d8c345c2cf5d2932b3e6fbc2\jetified-play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d3cd4c85d8c345c2cf5d2932b3e6fbc2\jetified-play-services-measurement-base-17.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a9b3b82318246f593578c4dff4192c1d\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a9b3b82318246f593578c4dff4192c1d\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\be11d448843dc78a19441b5a4f05c078\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\be11d448843dc78a19441b5a4f05c078\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\78730527f1f59b12ed420d2f53a89b4b\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\78730527f1f59b12ed420d2f53a89b4b\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:20:9-41
+	tools:ignore
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:24:9-48
+	android:roundIcon
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:17:9-42
+activity#com.example.lazymessanger.TagForumsActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:25:9-64
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:25:19-52
+activity#com.example.lazymessanger.UserDetailsActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.example.lazymessanger.SearchActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:27:9-35:20
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:27:19-49
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:28:13-30:29
+action#android.intent.action.SEARCH
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:29:17-71
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:29:25-68
+meta-data#android.app.searchable
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:32:13-34:54
+	android:resource
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:34:17-51
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:33:17-54
+activity#com.example.lazymessanger.ActivityForumAnalyze
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:36:9-58
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:36:19-55
+activity#com.example.lazymessanger.ActivityRegister
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:37:9-54
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:37:19-51
+activity#com.example.lazymessanger.PlaceActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:38:9-51
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:38:19-48
+activity#com.example.lazymessanger.HomeActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:39:9-42:50
+	android:hardwareAccelerated
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:42:13-47
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:41:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:40:13-41
+activity#com.example.lazymessanger.ProfilePictureActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:43:9-45:72
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:45:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:44:13-51
+activity#com.example.lazymessanger.ForumActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:46:9-49:46
+	android:launchMode
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:49:13-43
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:48:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:47:13-42
+activity#com.example.lazymessanger.ThreadRegisterActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:50:9-52:72
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:51:13-51
+activity#com.example.lazymessanger.LoginActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:53:9-55:72
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:55:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:54:13-42
+activity#com.example.lazymessanger.MainActivity
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:56:9-66:20
+	android:label
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:60:13-45
+	android:configChanges
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:58:13-69
+	android:icon
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:59:13-42
+	android:theme
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:61:13-48
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:57:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:62:13-65:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:63:17-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:63:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:64:17-77
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:64:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:68:9-70:71
+	android:value
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:70:13-68
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:69:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:71:9-73:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:73:13-66
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:72:13-58
+receiver#broadcasts.InternetBroadcastReceiver
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:75:19-70
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:76:13-78:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:77:17-79
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:77:25-76
+service#services.NotificationService
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:81:9-83:72
+	android:permission
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:83:13-69
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:82:13-56
+service#services.FirebaseMessageService
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:84:9-90:19
+	android:exported
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:86:13-37
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:85:13-59
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:87:13-89:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:17-78
+	android:name
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml:88:25-75
+uses-sdk
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9ed43ede764a47b940d3232b62b9fa5e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9ed43ede764a47b940d3232b62b9fa5e\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5407bd631196bba873e8c172528a0b24\material-1.1.0-alpha09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha09] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5407bd631196bba873e8c172528a0b24\material-1.1.0-alpha09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ece717ae11c674cd2577eec4cb59a544\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ece717ae11c674cd2577eec4cb59a544\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\45ac63c9bc3aa8316c8a27d91b8a9ef4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\45ac63c9bc3aa8316c8a27d91b8a9ef4\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.paging:paging-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a50c363cadf7c225ebe751dc12124e6e\paging-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.paging:paging-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a50c363cadf7c225ebe751dc12124e6e\paging-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0368fed1df965f04151c5eef6c5ba9c6\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0368fed1df965f04151c5eef6c5ba9c6\room-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de4862cee0057a78070b3a9653129dbf\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.firebaseui:firebase-ui-firestore:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fe3ee6245c1d80afffb52571e2134c7c\jetified-firebase-ui-firestore-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-firestore:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fe3ee6245c1d80afffb52571e2134c7c\jetified-firebase-ui-firestore-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\665ba076e2a9a69b6b42d936cc5b8d44\jetified-firebase-analytics-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\665ba076e2a9a69b6b42d936cc5b8d44\jetified-firebase-analytics-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4f383788c4f9228cfb9c3743fb21f494\jetified-circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4f383788c4f9228cfb9c3743fb21f494\jetified-circleimageview-3.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c01172fdcce3465a8dc5cdbcef3c5839\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c01172fdcce3465a8dc5cdbcef3c5839\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\110167f9f9b8e106fbbdd7d7630d6ea9\jetified-grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\110167f9f9b8e106fbbdd7d7630d6ea9\jetified-grpc-android-1.21.0\AndroidManifest.xml:7:5-9:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0e4850706fbb5aef390819afd18d54aa\jetified-compressor-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [id.zelory:compressor:2.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0e4850706fbb5aef390819afd18d54aa\jetified-compressor-2.1.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.hootsuite.android:nachos:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79e12f1d3682cd98f3a2d0506599bb06\jetified-nachos-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hootsuite.android:nachos:1.1.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79e12f1d3682cd98f3a2d0506599bb06\jetified-nachos-1.1.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4158eff534a06f5783d0b3be2a7bb3bf\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4158eff534a06f5783d0b3be2a7bb3bf\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bf39db12c88a7347eaab1a1e8397466\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bf39db12c88a7347eaab1a1e8397466\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ba11162dc31415e3c98b45e747ad8fe1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ba11162dc31415e3c98b45e747ad8fe1\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9b4512b876fc8e4f5d79d598f7802708\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9b4512b876fc8e4f5d79d598f7802708\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9cd3f06b59371e3f6ad6a459daa8274e\jetified-viewpager2-1.0.0-beta02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9cd3f06b59371e3f6ad6a459daa8274e\jetified-viewpager2-1.0.0-beta02\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de9cea4e3a11ca7faf87b78453994d1a\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\de9cea4e3a11ca7faf87b78453994d1a\jetified-play-services-clearcut-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\12d5c89f0e815191f6f0af445e029958\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\12d5c89f0e815191f6f0af445e029958\jetified-play-services-location-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\f952d768f8190021b2ffd997cb6b27f9\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\f952d768f8190021b2ffd997cb6b27f9\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9f803ca49b8b124cbe7dc318859a691\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9f803ca49b8b124cbe7dc318859a691\jetified-play-services-phenotype-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d0580cb8708f82d93c451e0cde6fbc54\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d0580cb8708f82d93c451e0cde6fbc54\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1463d7916647c040d4f38705eb66f882\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1463d7916647c040d4f38705eb66f882\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\58bd475487072aec53f39b06d2b20952\jetified-play-services-measurement-sdk-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\58bd475487072aec53f39b06d2b20952\jetified-play-services-measurement-sdk-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\913093da5e42fea3098779a3d4527015\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\913093da5e42fea3098779a3d4527015\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a59f428d946b15edb8a93cbba9d1f25c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a59f428d946b15edb8a93cbba9d1f25c\jetified-play-services-places-placereport-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d3cd4c85d8c345c2cf5d2932b3e6fbc2\jetified-play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d3cd4c85d8c345c2cf5d2932b3e6fbc2\jetified-play-services-measurement-base-17.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a9b3b82318246f593578c4dff4192c1d\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\a9b3b82318246f593578c4dff4192c1d\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\be11d448843dc78a19441b5a4f05c078\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\be11d448843dc78a19441b5a4f05c078\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e9844e1ffacd4d01e9c4e735c8a1a274\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9a38510928986636fd8ae27f594a052e\fragment-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9a38510928986636fd8ae27f594a052e\fragment-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4b0e4f2afbacc2d70987d314f30c282d\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4b0e4f2afbacc2d70987d314f30c282d\jetified-appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87cad4bdebd2f61ab50c3057c7ea18a1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87cad4bdebd2f61ab50c3057c7ea18a1\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\6c35e57b02a35b0c0b5e3a0ceab6c970\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\6c35e57b02a35b0c0b5e3a0ceab6c970\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\60eb90f02c3c753ffbf07d493f361f30\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\60eb90f02c3c753ffbf07d493f361f30\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87b7acbdb2d5ed16662f9f2d58c2be7f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\87b7acbdb2d5ed16662f9f2d58c2be7f\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7d3e3c220a0b3dafab2ce5f50ed8b43d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7d3e3c220a0b3dafab2ce5f50ed8b43d\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79d777ac6403dad34518fc7a04310bfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\79d777ac6403dad34518fc7a04310bfd\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1f9341c465271763f67947e2b1014997\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1f9341c465271763f67947e2b1014997\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8d5ce945dabd03bfe90195b857f7a916\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8d5ce945dabd03bfe90195b857f7a916\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2c3c4b0ca1fd79099a3d02939e18ac4d\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2c3c4b0ca1fd79099a3d02939e18ac4d\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8cc272a2a95695dda521edd4f3acfdfd\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\8cc272a2a95695dda521edd4f3acfdfd\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2b1fbb3099860df7ef6137e613b74378\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\2b1fbb3099860df7ef6137e613b74378\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\63c3ecb81cd03e470603f88f7642b018\jetified-activity-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\63c3ecb81cd03e470603f88f7642b018\jetified-activity-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\750c01c92d5aa0a56b5f5c10af4dc629\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\750c01c92d5aa0a56b5f5c10af4dc629\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ec97f7c7918a4aed76ecf09aae641db0\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ec97f7c7918a4aed76ecf09aae641db0\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\890b49868be103a45830b82231eb390d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\890b49868be103a45830b82231eb390d\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9d18e2071b94bc84949e4a07f57da657\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9d18e2071b94bc84949e4a07f57da657\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4af5e666bcc9870cabd7f847f21f470c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4af5e666bcc9870cabd7f847f21f470c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0f201dea50253b6dd0ea6e5fb44adb0f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\0f201dea50253b6dd0ea6e5fb44adb0f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b5a16b4fdd0a0e9f6506149f05043474\core-1.1.0-rc02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\42f5bbdea03718838219dc2321d1aee4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\42f5bbdea03718838219dc2321d1aee4\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\05d40eb9d439378b337f03560a217fe4\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\05d40eb9d439378b337f03560a217fe4\sqlite-framework-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\62b16dd9077e5c76ace0a2dab2fe1dee\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\62b16dd9077e5c76ace0a2dab2fe1dee\sqlite-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\933f986b932491ae04b35cf0895b6094\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\933f986b932491ae04b35cf0895b6094\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-common:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\628bf2636d7155ee1782d69ebb0f021e\jetified-firebase-ui-common-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-common:5.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\628bf2636d7155ee1782d69ebb0f021e\jetified-firebase-ui-common-5.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e06fa88f811686714048fa0c57d4c659\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e06fa88f811686714048fa0c57d4c659\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\78730527f1f59b12ed420d2f53a89b4b\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\78730527f1f59b12ed420d2f53a89b4b\versionedparcelable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9279327abb5835ffeb5fc0e4a2cd795a\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\9279327abb5835ffeb5fc0e4a2cd795a\lifecycle-runtime-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e6ffe8ca8997c82eaa3ef0bbd11d1665\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e6ffe8ca8997c82eaa3ef0bbd11d1665\lifecycle-viewmodel-2.1.0-rc01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\586a0fba63c937430f8f707d4be0761f\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\586a0fba63c937430f8f707d4be0761f\jetified-savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\76bda56b5ddb4d0d71e3cc1a512ff270\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\76bda56b5ddb4d0d71e3cc1a512ff270\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b4bd964c3bb66d8856a6024507d39759\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b4bd964c3bb66d8856a6024507d39759\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c541b49a8e95eafff2e9942137178a85\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\c541b49a8e95eafff2e9942137178a85\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\df60a04785b4bc6fe9ec10e4f7ec10ad\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\df60a04785b4bc6fe9ec10e4f7ec10ad\jetified-firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\791e049849b73c87479be1ec15d210f3\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\791e049849b73c87479be1ec15d210f3\jetified-protolite-well-known-types-17.0.0\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\merlinDev\Desktop\LazyMessanger (Pointspace)\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:10:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:16:9-23:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:20:13-62
+	android:hardwareAccelerated
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:22:13-71
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:18:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:21:13-66
+	android:name
+		ADDED from [com.google.android.libraries.places:places:2.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\d394e347b2646f9bb0176b69030cb260\jetified-places-2.0.0\AndroidManifest.xml:17:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:13:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\110167f9f9b8e106fbbdd7d7630d6ea9\jetified-grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [io.grpc:grpc-android:1.21.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\110167f9f9b8e106fbbdd7d7630d6ea9\jetified-grpc-android-1.21.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\cdf16aaff9735eaaa502599af3818d9e\jetified-play-services-measurement-sdk-api-17.1.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\e8808dbe72432fae4f7b29ee701ea872\jetified-play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:17:9-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\7687c7b0ed7201e8c4b1ffe8e87a6793\jetified-firebase-auth-19.0.0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\4bdb21a19ac96f27ae20408384d39a8d\jetified-firebase-storage-19.0.0\AndroidManifest.xml:34:17-107
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:21.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\376c4647e9b0079e0dcc05c28b535f63\jetified-firebase-firestore-21.0.0\AndroidManifest.xml:21:17-111
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\1849f6c36c42c56111a0a6e706075dec\jetified-firebase-messaging-20.0.0\AndroidManifest.xml:29:13-82
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\29ae119f1509a0f701d8082def9a2184\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5902fa1ed6e98b92b9350ef965f8c8e0\jetified-play-services-measurement-api-17.1.0\AndroidManifest.xml:31:17-139
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\b7effd36e68f5dcb0bb1dee0dba908d5\jetified-firebase-iid-20.0.0\AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\ebfa07f34214463042a7d42e61e1ea9c\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\5302a213742fea55f336ff3294450b6a\jetified-firebase-common-19.0.0\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\fec9ac09ae7441290a8e96bf882f8725\jetified-play-services-measurement-impl-17.1.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.1.0] C:\Users\merlinDev\.gradle\caches\transforms-2\files-2.1\853be77a043a1110f6820d03fa3a11db\jetified-play-services-measurement-17.1.0\AndroidManifest.xml:49:13-87

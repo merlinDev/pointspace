@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "989274273052",
+    "firebase_url": "https://lazymessanger-bef6a.firebaseio.com",
+    "project_id": "lazymessanger-bef6a",
+    "storage_bucket": "lazymessanger-bef6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:989274273052:android:713858fe09c4429b",
+        "android_client_info": {
+          "package_name": "com.example.lazymessanger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "989274273052-pla92nqeiir04ljd07a06mlbk76ktdbo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lazymessanger",
+            "certificate_hash": "95a6bc04ced4cd292972c5840a0b1ffffa1d146d"
+          }
+        },
+        {
+          "client_id": "989274273052-htpb1qtt21sdplcc3emf36rhii2068nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBunmLDgHVL4oOwAhhjeWofqi3_dSBKk34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "989274273052-htpb1qtt21sdplcc3emf36rhii2068nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

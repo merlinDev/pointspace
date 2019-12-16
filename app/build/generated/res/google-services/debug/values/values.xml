@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">989274273052-htpb1qtt21sdplcc3emf36rhii2068nf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://lazymessanger-bef6a.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">989274273052</string>
+    <string name="google_api_key" translatable="false">AIzaSyBunmLDgHVL4oOwAhhjeWofqi3_dSBKk34</string>
+    <string name="google_app_id" translatable="false">1:989274273052:android:713858fe09c4429b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBunmLDgHVL4oOwAhhjeWofqi3_dSBKk34</string>
+    <string name="google_storage_bucket" translatable="false">lazymessanger-bef6a.appspot.com</string>
+    <string name="project_id" translatable="false">lazymessanger-bef6a</string>
+</resources>
